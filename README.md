@@ -12,7 +12,7 @@ Need a dynamic variable name? Assemble it out of other things! Like other variab
 
 Put the tag on a page and do the thing. 
     
-    {{ assemble var="{segment_1}:title" }}
+    {{ assemble var="{segment_1}_title" }} // could return your {{ en_title }} global var
 
 ## Parameters
 
