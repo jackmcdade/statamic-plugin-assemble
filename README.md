@@ -16,4 +16,4 @@ Put the tag on a page and do the thing.
 
 ## Parameters
 
-- `var`: Assemble a variable name out of string literals and variables. Accepts `:` colon notation.
+- `var`: Assemble a variable name out of string literals and variables. Accepts `:` colon notation for fetching deep array values.
