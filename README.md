@@ -5,7 +5,7 @@ Need a dynamic variable name? Assemble it out of other things! Like other variab
 
 ## Installing
 1. Download the zip file (or clone via git) and unzip it or clone the repo into `/_add-ons/`.
-2. Ensure the folder name is `disqus` (Github messes with the download folder name).
+2. Ensure the folder name is `assemble` (Github messes with the download folder name).
 3. Enjoy.
 
 ## Usage
